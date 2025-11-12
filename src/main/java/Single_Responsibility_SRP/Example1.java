@@ -1,4 +1,4 @@
-package SingleResponsibilityPrinciple;
+package Single_Responsibility_SRP;
 
 class EmployMaster{
     private int id;

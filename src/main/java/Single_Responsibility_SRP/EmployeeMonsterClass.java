@@ -1,4 +1,4 @@
-package SingleResponsibilityPrinciple;
+package Single_Responsibility_SRP;
 
 class EmployeeMonsterClass {
     private int id;
