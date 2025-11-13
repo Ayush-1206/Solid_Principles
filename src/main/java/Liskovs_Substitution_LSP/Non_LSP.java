@@ -1,4 +1,4 @@
-package Liskovs_Substitution;
+package Liskovs_Substitution_LSP;
 
 
 class Rectangle{
@@ -33,7 +33,7 @@ class Square extends Rectangle{
         this.width = width;
     }
 }
-public class non_LSP {
+class non_LSP {
     public static void main(String[] args) {
         Rectangle R = new Rectangle();
         R.setHeight(10);

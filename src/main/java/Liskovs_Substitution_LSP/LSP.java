@@ -1,4 +1,4 @@
-package Liskovs_Substitution;
+package Liskovs_Substitution_LSP;
 
 interface Shape{
     double getArea();
